@@ -4,11 +4,6 @@
 <h1>Junxuan Wu</h1>
 
 ><strong>University of Toronto</strong><strong>Bachelor of Computer Science</strong>
-<p>
-GPA: 3.6/4.0
-   </td>
-   <td>887 Bay St
-<p>
 Toronto, ON <strong>(647) 893-1068</strong>
 <p>
 <strong><a href="mailto:atrocitytheme@gmail.com">atrocitytheme@gmail.com</a></strong>
@@ -69,10 +64,6 @@ I work for the infrastructure development team and collaborate closely with the 
 
 
 <h3>2017 - Present</h3>
-
-
-<h3><strong>GPA: 3.6/4.0</strong> </h3>
-
 
 </li>
 </ul>
