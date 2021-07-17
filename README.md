@@ -3,7 +3,11 @@
    <td>
 <h1>Junxuan Wu</h1>
 
-><strong>University of Toronto</strong><strong>Bachelor of Computer Science</strong>
+<strong>University of Toronto</strong>
+     
+<strong>Bachelor of Computer Science</strong>
+    </td>
+<td>
 Toronto, ON <strong>(647) 893-1068</strong>
 <p>
 <strong><a href="mailto:atrocitytheme@gmail.com">atrocitytheme@gmail.com</a></strong>
