@@ -26,7 +26,6 @@ Toronto, Canada — <em>GSoC Developer</em>
 <strong>05 2021 - Present</strong>
      
 <strong>Java, KVM/Qemu, OS virtualization, Cloud computing, Vuejs</strong>
-
 Apache CloudStack is an open-source cloud computing platform belonging to Apache Software Foundation. 
 <p>
 I joined as one of the open-source software developers during the Google Summer of Code event. Fields working on
