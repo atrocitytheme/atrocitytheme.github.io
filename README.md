@@ -73,9 +73,7 @@ I work for the infrastructure development team and collaborate closely with the 
 </ul>
 </td>
 <td>
-  
-![ alt ](https://github.com/atrocitytheme/atrocitytheme.github.io/blob/main/review.jpeg)
-  
+<img src="https://github.com/atrocitytheme/atrocitytheme.github.io/blob/main/review.jpeg">
 <h1>SKILLS</h1>
 <ul>
 <li>Java/Nodejs/C++/Python3
