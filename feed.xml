@@ -5,9 +5,64 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description>My personal blog</description>
-    <pubDate>Sun, 31 Oct 2021 20:00:00 -0400</pubDate>
+    <pubDate>Fri, 26 Nov 2021 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Engineering Portfolio</title>
+      <link>http://localhost:8080/articles/portofolio/</link>
+      <pubDate>Fri, 26 Nov 2021 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/portofolio/</guid>
+      <author></author>
+      <description>&lt;h1 id=&quot;myself&quot;&gt;Myself&lt;/h1&gt;
+&lt;p&gt;Hi, I am currently a student in Computer Science at University of Toronto. I’m currently working in APS490 designing solutions for polaris to make better decisions for their customers.&lt;/p&gt;
+&lt;p&gt;I am a highly motivated person with a strong interest in the internet, algorithms, and software design.&lt;/p&gt;
+&lt;p&gt;I am eagerly seeking opportunities to apply my skills to real-world problems as a developer. I have experience in frontend, backend development, MySQL, and Redis. I’m especially interested in distributed systems and cloud computing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For details of my resume, please see: &lt;a href=&quot;http://localhost:8080/articles/introduction/&quot;&gt;self intro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;project&quot;&gt;Project&lt;/h1&gt;
+&lt;h2 id=&quot;reap-the-flag&quot;&gt;&lt;a href=&quot;https://github.com/atrocitytheme/Reap-the-flag&quot;&gt;Reap the flag&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;May 2018 - June 2018&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I worked independently and designed a multiplayer online fps game, it supports players in the same area network to connect and play together. It’s an application server supporting TCP and UDP channel, features include: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a custom RPC framework&lt;/li&gt;
+&lt;li&gt;fault-tolerant system such as in-memory message queue and TCP sticky
+packet processing system&lt;/li&gt;
+&lt;li&gt;can support 60-frames game advancing with over 10 players&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;cloudstack&quot;&gt;&lt;a href=&quot;https://github.com/atrocitytheme/cloudstack&quot;&gt;Cloudstack&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;May 2021 - Aug 2021&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CloudStack is an open-source cloud computing platform belonging to Apache Software Foundation.
+I joined as one of the open-source software developers during the Google Summer of Code event.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented a Clone Virtual Machine feature &amp;amp; UI on a large Java codebase over 340k+ lines (PR #5216)&lt;/li&gt;
+&lt;li&gt;Proposed a tentative bug fix on Null Pointer Exception involving volume creation (PR #5383)&lt;/li&gt;
+&lt;li&gt;Contributed an integration test and unit test to the open source cloud platform&lt;/li&gt;
+&lt;li&gt;Optimized some of the code implementation and made the cloud Orchestrator API reusable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;chups-and-hubbs&quot;&gt;&lt;a href=&quot;https://github.com/atrocitytheme/Chups-Hubbub&quot;&gt;Chups and Hubbs&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Jan 2020 - April 2020&lt;/em&gt;&lt;/strong&gt;
+I worked independently and developed a programming language using functional programming paradigm.
+Features implemented: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;turn a normal state to CPS (continuation passing style)&lt;/li&gt;
+&lt;li&gt;Shift, error, reset, try catch statement &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;experience&quot;&gt;Experience&lt;/h1&gt;
+&lt;h2 id=&quot;software-development-coop-oracle&quot;&gt;Software Development Coop @&lt;a href=&quot;https://www.oracle.com/ca-en/index.html&quot;&gt;Oracle&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;May 2020 - April 2021&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a coop, I achieved Achieved zero down time automating the Migration (including Schema generation) of databases with
+over 100TB data from legacy pods to Oracle Cloud, improved the original manual process from 1 week to
+days. &lt;/p&gt;
+&lt;p&gt;At the same time, I improved the RMS portal performance by making a Redis cache system, delivering way faster response
+time than previous NoSQL implementation, Enforced 100% unit test coverage and well-defined functional test for VM monitoring system. I also Worked closely with the Devops team. Designed and Maintained calendar &amp;amp; environment status board
+from a distributed log system, helping at least 5 dev teams to get quicker feedback on their development
+progress. Finally, I Got a Oracle Quarterly Coop Award for implementing the cache system&lt;/p&gt;
+&lt;h1 id=&quot;classes&quot;&gt;Classes&lt;/h1&gt;
+&lt;h2 id=&quot;csc458&quot;&gt;CSC458&lt;/h2&gt;
+</description>
+    </item>
     <item>
       <title>Self Intro</title>
       <link>http://localhost:8080/articles/introduction/</link>
@@ -124,61 +179,6 @@ Reap the Flag (Unity Client) —&lt;em&gt;https://github.com/atrocitytheme/Reap-
       <description>&lt;p&gt;Some common stats on the performance of different hardware resources&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 &lt;img src=&quot;/articles/system-common-number/common.png&quot; alt=&quot;Numbers Everyone should know&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Engineering Portfolio</title>
-      <link>http://localhost:8080/articles/portofolio/</link>
-      <pubDate>Sun, 31 Oct 2021 20:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/portofolio/</guid>
-      <author></author>
-      <description>&lt;h1 id=&quot;myself&quot;&gt;Myself&lt;/h1&gt;
-&lt;p&gt;Hi, I am currently a student in Computer Science at University of Toronto. I’m currently working in APS490 designing solutions for polaris to make better decisions for their customers.&lt;/p&gt;
-&lt;p&gt;I am a highly motivated person with a strong interest in the internet, algorithms, and software design.&lt;/p&gt;
-&lt;p&gt;I am eagerly seeking opportunities to apply my skills to real-world problems as a developer. I have experience in frontend, backend development, MySQL, and Redis. I’m especially interested in distributed systems and cloud computing.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;For details of my resume, please see: &lt;a href=&quot;http://localhost:8080/articles/introduction/&quot;&gt;self intro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;project&quot;&gt;Project&lt;/h1&gt;
-&lt;h2 id=&quot;reap-the-flag&quot;&gt;&lt;a href=&quot;https://github.com/atrocitytheme/Reap-the-flag&quot;&gt;Reap the flag&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;May 2018 - June 2018&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I worked independently and designed a multiplayer online fps game, it supports players in the same area network to connect and play together. It’s an application server supporting TCP and UDP channel, features include: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;a custom RPC framework&lt;/li&gt;
-&lt;li&gt;fault-tolerant system such as in-memory message queue and TCP sticky
-packet processing system&lt;/li&gt;
-&lt;li&gt;can support 60-frames game advancing with over 10 players&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;cloudstack&quot;&gt;&lt;a href=&quot;https://github.com/atrocitytheme/cloudstack&quot;&gt;Cloudstack&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;May 2021 - Aug 2021&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CloudStack is an open-source cloud computing platform belonging to Apache Software Foundation.
-I joined as one of the open-source software developers during the Google Summer of Code event.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Implemented a Clone Virtual Machine feature &amp;amp; UI on a large Java codebase over 340k+ lines (PR #5216)&lt;/li&gt;
-&lt;li&gt;Proposed a tentative bug fix on Null Pointer Exception involving volume creation (PR #5383)&lt;/li&gt;
-&lt;li&gt;Contributed an integration test and unit test to the open source cloud platform&lt;/li&gt;
-&lt;li&gt;Optimized some of the code implementation and made the cloud Orchestrator API reusable&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;chups-and-hubbs&quot;&gt;&lt;a href=&quot;https://github.com/atrocitytheme/Chups-Hubbub&quot;&gt;Chups and Hubbs&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Jan 2020 - April 2020&lt;/em&gt;&lt;/strong&gt;
-I worked independently and developed a programming language using functional programming paradigm.
-Features implemented: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;turn a normal state to CPS (continuation passing style)&lt;/li&gt;
-&lt;li&gt;Shift, error, reset, try catch statement &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;experience&quot;&gt;Experience&lt;/h1&gt;
-&lt;h2 id=&quot;software-development-coop-oracle&quot;&gt;Software Development Coop @&lt;a href=&quot;https://www.oracle.com/ca-en/index.html&quot;&gt;Oracle&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;May 2020 - April 2021&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As a coop, I achieved Achieved zero down time automating the Migration (including Schema generation) of databases with
-over 100TB data from legacy pods to Oracle Cloud, improved the original manual process from 1 week to
-days. &lt;/p&gt;
-&lt;p&gt;At the same time, I improved the RMS portal performance by making a Redis cache system, delivering way faster response
-time than previous NoSQL implementation, Enforced 100% unit test coverage and well-defined functional test for VM monitoring system. I also Worked closely with the Devops team. Designed and Maintained calendar &amp;amp; environment status board
-from a distributed log system, helping at least 5 dev teams to get quicker feedback on their development
-progress. Finally, I Got a Oracle Quarterly Coop Award for implementing the cache system&lt;/p&gt;
-&lt;h1 id=&quot;classes&quot;&gt;Classes&lt;/h1&gt;
-&lt;h2 id=&quot;csc458&quot;&gt;CSC458&lt;/h2&gt;
 </description>
     </item>
     <item>
