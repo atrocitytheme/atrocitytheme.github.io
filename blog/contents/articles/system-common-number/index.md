@@ -1,7 +1,7 @@
 ---
 title: Common stats of system resources
 author: Junxuan Wu
-date: 2021-11
+date: 2021-11-08
 template: article.pug
 ---
 

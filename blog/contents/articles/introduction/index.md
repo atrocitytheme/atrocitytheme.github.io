@@ -1,7 +1,7 @@
 ---
 title: Self Intro
 author: Junxuan Wu
-date: 2021-11
+date: 2021-11-07
 template: article.pug
 brief: "test"
 ---

@@ -64,9 +64,20 @@ progress. Finally, I Got a Oracle Quarterly Coop Award for implementing the cach
 </description>
     </item>
     <item>
+      <title>Common stats of system resources</title>
+      <link>http://localhost:8080/articles/system-common-number/</link>
+      <pubDate>Sun, 07 Nov 2021 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/system-common-number/</guid>
+      <author></author>
+      <description>&lt;p&gt;Some common stats on the performance of different hardware resources&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;img src=&quot;/articles/system-common-number/common.png&quot; alt=&quot;Numbers Everyone should know&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Self Intro</title>
       <link>http://localhost:8080/articles/introduction/</link>
-      <pubDate>Sun, 31 Oct 2021 20:00:00 -0400</pubDate>
+      <pubDate>Sat, 06 Nov 2021 20:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/introduction/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;a href=&quot;/&quot;&gt;My Self Introduction!
@@ -168,17 +179,6 @@ Reap the Flag (Unity Client) —&lt;em&gt;https://github.com/atrocitytheme/Reap-
    &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-</description>
-    </item>
-    <item>
-      <title>Common stats of system resources</title>
-      <link>http://localhost:8080/articles/system-common-number/</link>
-      <pubDate>Sun, 31 Oct 2021 20:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/system-common-number/</guid>
-      <author></author>
-      <description>&lt;p&gt;Some common stats on the performance of different hardware resources&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;img src=&quot;/articles/system-common-number/common.png&quot; alt=&quot;Numbers Everyone should know&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
